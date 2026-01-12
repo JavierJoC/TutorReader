@@ -1,0 +1,16 @@
+# Ignorar todos los enlaces simbólicos
+ /*
+*/
+**/*@
+
+#ingnorar Modulos 
+piper/
+
+
+
+#ignorar archivos generados
+input_prompt.wav
+speach.wav
+input_prompt.txt
+speach.txt
+
