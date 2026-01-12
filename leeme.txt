@@ -1,0 +1,18 @@
+Esta es la versión con la que iniciamos
+https://github.com/rhasspy/piper/releases/download/v1.2.0/piper_amd64.tar.gz
+ya está archivado este proyecto
+
+
+
+Esta es la versión que esta desarrollandose
+https://github.com/OHF-Voice/piper1-gpl
+
+
+https://github.com/rhasspy/piper
+
+link to tools: models
+https://rhasspy.github.io/piper-samples/#en_US-sam-medium
+
+
+
+

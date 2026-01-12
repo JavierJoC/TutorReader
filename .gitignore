@@ -9,8 +9,13 @@ piper/
 
 
 #ignorar archivos generados
+*.wav
 input_prompt.wav
 speach.wav
 input_prompt.txt
 speach.txt
-
+bash_codes.txt
+speach_history
+ScriptsHistory/
+historyhiglightWords/
+New-historyhiglightWords/

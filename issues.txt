@@ -1,0 +1,25 @@
+
+mié 15 oct 2025 19:55:00 CST
+arregalr el sonido del beep
+arreglar el médto de selección para que se discrimene cuando la selección ha cambiado  y no estar repiditendo texto parecido.
+
+
+mié 24 dic 2025 02:01:50 CST
+Es posible usar el movimiento del cursor como un identificador de que el usuario esta listo para seleccionar texto en cualquier momento
+
+También es posible crear un identificador a partir de cuándo el usuario hace clicl y empieza el arrastre de la selección hasta que ha terminado de hacer selección.
+
+
+
+mar 30 dic 2025 00:53:11 CST
+Otro problema no muy recurrente pero común , es cuando el software para convetir a voz falla, y gran parte del texto se pierde, debería poder interrumpirse el specah fallado y reintentarlo,  como observación, pudiera ser posible modificar algun detalle del texto para que no lo interprete como la misma entrada.
+
+
+
+mié 31 dic 2025 10:41:04 CST
+Podemo hacer que el demonio verifique el momenot en que el usuario haga click con el mouse
+
+
+
+jue 08 ene 2026 11:29:30 CST
+incluir la forma de repetir el audio es muy recurrente su uso, igual se puede pedir que su reproducción sea más veloz de lo normal.-

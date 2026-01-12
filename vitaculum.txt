@@ -1,0 +1,6 @@
+sudo apt install libgtk-3-dev gir1.2-appindicator3-0.1
+gem install gtk3
+
+
+sudo apt install xclip
+
